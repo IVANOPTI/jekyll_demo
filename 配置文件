@@ -1,0 +1,24 @@
+extension = tidy.so
+extension = zmq.so
+extension = mongo.so
+extension = msgpack.so
+extension = redis.so
+
+
+官方网站：https://github.com/msgpack/msgpack-php
+redis的配置：http://www.cnblogs.com/viaivi/
+redis的php扩展：http://yfyfj.blog.163.com/blog/static/1542478420127610411995/
+archive/2011/12/08/2281319.html 为PHP安装
+zeromq的配置：http://www.linuxidc.com/Linux/2011-07/38496.htm
+lamp的配置(linux+apache+mysql+php)：http://www.cnblogs.com/chenzhenianqing/archive/2011/08/08/2177112.html
+MONGO安装及其在php下配置：http://www.itokit.com/2012/0417/73612.html
+tidy在php环境下的安装：http://nroed.ixiezi.com/2010/02/25/php-5-3-0-install-tidy/
+导师将爱房的代码拷下来的步骤：song
+代码记录论坛网址：（用于熟悉代码，把代码的结果记录下来）http://labs.aifang.com/group/forum.php?mod=viewthread&tid=122&extra=page%3D1
+linux下操作MYSQL数据库:http://www.cnblogs.com/are1OfBlog/archive/2012/11/14/2769889.html
+一个非常有用的配置网站：http://wiki.ubuntu.org.cn/LAMP_%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE#.E5.B8.B8.E7.94.A8.E5.91.BD.E4.BB.A4
+关于php的学习：http://www.w3school.com.cn/php/php_intro.asp（王根意推荐）
+php_mysql函数：http://www.w3school.com.cn/php/php_ref_mysql.asp
+python学习：http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html（某论坛自己总结的python，挺好的。）
+github学习：http://home.donews.com/donews/article/1/174545.html
+           http://www.cnblogs.com/findingsea/archive/2012/08/27/2654549.html
